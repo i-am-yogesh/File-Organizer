@@ -10,3 +10,4 @@ Steps to use application :-
 5. Done, Your Files are now organized.
 
 Files are organized based on there extension. Look at File-Organizer\Source-Files\FileTypes.cpp for extension that will be organized. Comment code extensions will not organized.
+NOTE : It is recommed to not change application name!
